@@ -39,7 +39,7 @@ namespace IdentifyTest
     /// </summary>
     public sealed partial class MainPage : Page
     {
-        private const string subscriptionKey = "915c77bf00834d489a2109c747b34ca4";
+        private const string subscriptionKey = #microsoft api subscription key
         private const string faceEndpoint = "https://eastus.api.cognitive.microsoft.com";
         
         //API connection to Azure
